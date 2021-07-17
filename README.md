@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yniks&show_icons=true&theme=radical&bg_color=10,red,green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yniks&show_icons=true&theme=great-gatsby)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yniks&theme=great-gatsby)](https://github.com/yniks)
+
+
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c-repl&repo=c-repl)](https://github.com/c-repl/c-repl) -->
 
